@@ -30,4 +30,4 @@ coverage
 *.tsbuildinfo
 
 # Frontend directory
-frontend/.git
+# frontend/.git
